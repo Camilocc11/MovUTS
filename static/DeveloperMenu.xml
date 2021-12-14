@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="prgs.xsl"?>
+<Objects>
+   <Charset>UTF-8</Charset>
+   <Path>file:///C:/Program Files (x86)/GeneXus/GeneXus16/</Path>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>Ruta</ObjName>
+      <ObjDesc>Ruta</ObjDesc>
+      <ObjLink>/MovUTS/servlet/com.movuts.ruta</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>RutaPasajero</ObjName>
+      <ObjDesc>Ruta Pasajero</ObjDesc>
+      <ObjLink>/MovUTS/servlet/com.movuts.rutapasajero</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>GAMHome</ObjName>
+      <ObjDesc>GAM Home</ObjDesc>
+      <ObjLink>/MovUTS/servlet/com.movuts.gamhome</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>GAMExampleLogin</ObjName>
+      <ObjDesc>Login</ObjDesc>
+      <ObjLink>/MovUTS/servlet/com.movuts.gamexamplelogin</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>GAMExampleRegisterUser</ObjName>
+      <ObjDesc>Register user</ObjDesc>
+      <ObjLink>/MovUTS/servlet/com.movuts.gamexampleregisteruser</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>GAMExampleNotAuthorized</ObjName>
+      <ObjDesc>Not Authorized</ObjDesc>
+      <ObjLink>/MovUTS/servlet/com.movuts.gamexamplenotauthorized</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>GAMExampleSSOLogin</ObjName>
+      <ObjDesc>Single Sign-On</ObjDesc>
+      <ObjLink>/MovUTS/servlet/com.movuts.gamexamplessologin</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>K2BChangePassword</ObjName>
+      <ObjDesc>K2 BChange Password</ObjDesc>
+      <ObjLink>/MovUTS/servlet/com.movuts.k2bchangepassword</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>GridSettingsOrion</ObjName>
+      <ObjDesc>Grid Settings Orion</ObjDesc>
+      <ObjLink>/MovUTS/servlet/com.movuts.gridsettingsorion</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>K2BHome</ObjName>
+      <ObjDesc>Inicio</ObjDesc>
+      <ObjLink>/MovUTS/servlet/com.movuts.k2bhome</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>K2BToolsIndexAdminRWD</ObjName>
+      <ObjDesc>K2 BTools Index Admin RWD</ObjDesc>
+      <ObjLink>/MovUTS/servlet/com.movuts.k2btoolsindexadminrwd</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>SelectedItem</ObjName>
+      <ObjDesc>Selected Item</ObjDesc>
+      <ObjLink>/MovUTS/servlet/com.movuts.selecteditem</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>SelectedItemTag</ObjName>
+      <ObjDesc>Selected Item Tag</ObjDesc>
+      <ObjLink>/MovUTS/servlet/com.movuts.selecteditemtag</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>K2BT_ViewAllNotifications</ObjName>
+      <ObjDesc>K2 BT_View All Notifications</ObjDesc>
+      <ObjLink>/MovUTS/servlet/com.movuts.k2bt_viewallnotifications</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>K2BLogout</ObjName>
+      <ObjDesc>K2 BLogout</ObjDesc>
+      <ObjLink>/MovUTS/servlet/com.movuts.k2blogout</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>K2BFSG\SecBackendHome</ObjName>
+      <ObjDesc>K2BFSG.Inicio configuración de seguridad</ObjDesc>
+      <ObjLink>/MovUTS/servlet/com.movuts.k2bfsg.secbackendhome</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>K2BFSG\WWUser</ObjName>
+      <ObjDesc>K2BFSG.Usuarios</ObjDesc>
+      <ObjLink>/MovUTS/servlet/com.movuts.k2bfsg.wwuser</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>K2BFSG\WWRole</ObjName>
+      <ObjDesc>K2BFSG.Roles</ObjDesc>
+      <ObjLink>/MovUTS/servlet/com.movuts.k2bfsg.wwrole</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>K2BFSG\WWMenu</ObjName>
+      <ObjDesc>K2BFSG.Menús</ObjDesc>
+      <ObjLink>/MovUTS/servlet/com.movuts.k2bfsg.wwmenu</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>K2BFSG\WWApplication</ObjName>
+      <ObjDesc>K2BFSG.Aplicaciones</ObjDesc>
+      <ObjLink>/MovUTS/servlet/com.movuts.k2bfsg.wwapplication</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>K2BFSG\RepositoryConfiguration</ObjName>
+      <ObjDesc>K2BFSG.Configuración de repositorio</ObjDesc>
+      <ObjLink>/MovUTS/servlet/com.movuts.k2bfsg.repositoryconfiguration</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>K2BFSG\WWAuthType</ObjName>
+      <ObjDesc>K2BFSG.Tipos de autenticación</ObjDesc>
+      <ObjLink>/MovUTS/servlet/com.movuts.k2bfsg.wwauthtype</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>K2BFSG\WWConnections</ObjName>
+      <ObjDesc>K2BFSG.Conexiones a repositorio</ObjDesc>
+      <ObjLink>/MovUTS/servlet/com.movuts.k2bfsg.wwconnections</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>K2BFSG\WWSecurityPolicy</ObjName>
+      <ObjDesc>K2BFSG.Políticas de seguridad</ObjDesc>
+      <ObjLink>/MovUTS/servlet/com.movuts.k2bfsg.wwsecuritypolicy</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>K2BFSG\ChangeRepository</ObjName>
+      <ObjDesc>K2BFSG.Change Repository</ObjDesc>
+      <ObjLink>/MovUTS/servlet/com.movuts.k2bfsg.changerepository</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>K2BFSG\WWRepositories</ObjName>
+      <ObjDesc>K2BFSG.Repositorios</ObjDesc>
+      <ObjLink>/MovUTS/servlet/com.movuts.k2bfsg.wwrepositories</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>K2BFSG\WWEventSubscription</ObjName>
+      <ObjDesc>K2BFSG.Subscripciones a eventos</ObjDesc>
+      <ObjLink>/MovUTS/servlet/com.movuts.k2bfsg.wweventsubscription</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>K2BFSG\Login</ObjName>
+      <ObjDesc>K2BFSG.Iniciar sesión</ObjDesc>
+      <ObjLink>/MovUTS/servlet/com.movuts.k2bfsg.login</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>K2BFSG\K2BToolsAccessDenied</ObjName>
+      <ObjDesc>K2BFSG.Acceso denegado</ObjDesc>
+      <ObjLink>/MovUTS/servlet/com.movuts.k2bfsg.k2btoolsaccessdenied</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>K2BFSG\Logout</ObjName>
+      <ObjDesc>K2BFSG.Cerrar sesión</ObjDesc>
+      <ObjLink>/MovUTS/servlet/com.movuts.k2bfsg.logout</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>K2BFSG\ApplicationHome</ObjName>
+      <ObjDesc>K2BFSG.Security Backend Home</ObjDesc>
+      <ObjLink>/MovUTS/servlet/com.movuts.k2bfsg.applicationhome</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>K2BFSG\RecoverPasswordStep1</ObjName>
+      <ObjDesc>K2BFSG.Recover Password Step 1</ObjDesc>
+      <ObjLink>/MovUTS/servlet/com.movuts.k2bfsg.recoverpasswordstep1</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>K2BFSG\RegisterUser</ObjName>
+      <ObjDesc>K2BFSG.Register User</ObjDesc>
+      <ObjLink>/MovUTS/servlet/com.movuts.k2bfsg.registeruser</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>K2BFSG\ChangePassword</ObjName>
+      <ObjDesc>K2BFSG.Cambiar Contraseña</ObjDesc>
+      <ObjLink>/MovUTS/servlet/com.movuts.k2bfsg.changepassword</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>K2BFSG\EmailSent</ObjName>
+      <ObjDesc>K2BFSG.Correo electrónico enviado</ObjDesc>
+      <ObjLink>/MovUTS/servlet/com.movuts.k2bfsg.emailsent</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>K2BFSG\SSOLogin</ObjName>
+      <ObjDesc>K2BFSG.Ingreso único</ObjDesc>
+      <ObjLink>/MovUTS/servlet/com.movuts.k2bfsg.ssologin</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>WWTipoIdentificacion</ObjName>
+      <ObjDesc>Tipo Identificación</ObjDesc>
+      <ObjLink>/MovUTS/servlet/com.movuts.wwtipoidentificacion</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>WWConsecutivo</ObjName>
+      <ObjDesc>Consecutivos</ObjDesc>
+      <ObjLink>/MovUTS/servlet/com.movuts.wwconsecutivo</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>WWGenero</ObjName>
+      <ObjDesc>Géneros</ObjDesc>
+      <ObjLink>/MovUTS/servlet/com.movuts.wwgenero</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>WWUsuario</ObjName>
+      <ObjDesc>Usuarios</ObjDesc>
+      <ObjLink>/MovUTS/servlet/com.movuts.wwusuario</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>WPRegistrarUsuario</ObjName>
+      <ObjDesc>Registrar Usuario</ObjDesc>
+      <ObjLink>/MovUTS/servlet/com.movuts.wpregistrarusuario</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>WPRedireccionarVehiculo</ObjName>
+      <ObjDesc>Redireccionar Vehiculo</ObjDesc>
+      <ObjLink>/MovUTS/servlet/com.movuts.wpredireccionarvehiculo</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>WPAdministrarUsuario</ObjName>
+      <ObjDesc>Administración Usuario</ObjDesc>
+      <ObjLink>/MovUTS/servlet/com.movuts.wpadministrarusuario</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>WPCreaRuta</ObjName>
+      <ObjDesc>Crear Ruta</ObjDesc>
+      <ObjLink>/MovUTS/servlet/com.movuts.wpcrearuta</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>WPAdministrarRutas</ObjName>
+      <ObjDesc>Rutas del Usuario</ObjDesc>
+      <ObjLink>/MovUTS/servlet/com.movuts.wpadministrarrutas</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>WPRutas</ObjName>
+      <ObjDesc>Rutas Disponibles</ObjDesc>
+      <ObjLink>/MovUTS/servlet/com.movuts.wprutas</ObjLink>
+   </Object>
+</Objects>
