@@ -1,3 +1,0 @@
-com.movuts.gamcheckuseractivationmethod_services_rest
-com.movuts.k2bisauthorizedactivitylist_services_rest
-com.movuts.k2btoolsgetuseencryption_services_rest
