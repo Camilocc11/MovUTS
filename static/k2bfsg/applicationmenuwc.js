@@ -291,6 +291,7 @@ gx.define('k2bfsg.applicationmenuwc', true, function (CmpContext) {
    FILTERTAGSUSERCONTROL_GRIDContainer.addV2CFunction('AV48DeletedTag_Grid', "vDELETEDTAG_GRID", 'SetDeletedTag');
    FILTERTAGSUSERCONTROL_GRIDContainer.addC2VFunction(function(UC) { UC.ParentObject.AV48DeletedTag_Grid=UC.GetDeletedTag();gx.fn.setControlValue("vDELETEDTAG_GRID",UC.ParentObject.AV48DeletedTag_Grid); });
    FILTERTAGSUSERCONTROL_GRIDContainer.setProp("Visible", "Visible", true, "bool");
+   FILTERTAGSUSERCONTROL_GRIDContainer.setProp("Gx Control Type", "Gxcontroltype", '', "int");
    FILTERTAGSUSERCONTROL_GRIDContainer.setC2ShowFunction(function(UC) { UC.show(); });
    FILTERTAGSUSERCONTROL_GRIDContainer.addEventHandler("TagDeleted", this.e302j1_client);
    this.setUserControl(FILTERTAGSUSERCONTROL_GRIDContainer);

@@ -555,6 +555,7 @@ gx.define('k2bfsg.roleaddpermission', false, function () {
    FILTERTAGSUSERCONTROL_AVAILABLEPERMISSIONSContainer.addV2CFunction('AV68DeletedTag_AvailablePermissions', "vDELETEDTAG_AVAILABLEPERMISSIONS", 'SetDeletedTag');
    FILTERTAGSUSERCONTROL_AVAILABLEPERMISSIONSContainer.addC2VFunction(function(UC) { UC.ParentObject.AV68DeletedTag_AvailablePermissions=UC.GetDeletedTag();gx.fn.setControlValue("vDELETEDTAG_AVAILABLEPERMISSIONS",UC.ParentObject.AV68DeletedTag_AvailablePermissions); });
    FILTERTAGSUSERCONTROL_AVAILABLEPERMISSIONSContainer.setProp("Visible", "Visible", true, "bool");
+   FILTERTAGSUSERCONTROL_AVAILABLEPERMISSIONSContainer.setProp("Gx Control Type", "Gxcontroltype", '', "int");
    FILTERTAGSUSERCONTROL_AVAILABLEPERMISSIONSContainer.setC2ShowFunction(function(UC) { UC.show(); });
    FILTERTAGSUSERCONTROL_AVAILABLEPERMISSIONSContainer.addEventHandler("TagDeleted", this.e26311_client);
    this.setUserControl(FILTERTAGSUSERCONTROL_AVAILABLEPERMISSIONSContainer);
